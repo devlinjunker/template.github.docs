@@ -24,8 +24,9 @@ jobs:
         yaml_file: .github/labels.yaml
         skip_delete: false
         dry_run: false
-#         exclude: |
-#           help*
+          exclude: |
+            :*
+#             help*
 #             *issue
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
