@@ -2,13 +2,13 @@
 version: 0.9-SNAPSHOT
 ---
 
-<img align="right" width="100" height="140" src="https://github.com/devlinjunker/template.github/blob/master/img/logo-small.png">
+<img align="right" width="100" height="140" src="https://github.com/devlinjunker/template.github.docs/raw/main/img/logo-small.png">
 
 # Template Github :100: Repo
 
-[![GitHub License](https://img.shields.io/github/license/devlinjunker/template.github.docs?color=blue)](https://github.com/devlinjunker/template.github.docs/blob/master/LICENSE)
-<!-- [![CII Best Practices Summary](https://img.shields.io/cii/summary/4287?label=core-infrastructure)](https://bestpractices.coreinfrastructure.org/en/projects/4287) -->
-[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/template.github)](https://github.com/devlinjunker/template.github.docs/commits/master)
+[![GitHub License](https://img.shields.io/github/license/devlinjunker/template.github.docs?color=blue)](https://github.com/devlinjunker/template.github.docs/blob/main/LICENSE)
+[![CII Best Practices Summary](https://img.shields.io/cii/summary/4553?label=core-infrastructure)](https://bestpractices.coreinfrastructure.org/en/projects/4553)
+[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/template.github)](https://github.com/devlinjunker/template.github.docs/commits/main)
 
 _[Find More Badges Here](https://shields.io/)_
 
