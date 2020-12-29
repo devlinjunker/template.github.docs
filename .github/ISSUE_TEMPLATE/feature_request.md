@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe:**  <!--Description of what the problem is - Ex. I'm always frustrated when [...] -->
+**Is your feature request related to a problem? Please describe:**  <!--Description of what the problem is -->
+Ex. I'm always frustrated when [...]
 
 **Describe the solution:**  <!-- What you want to happen and/or how it should solve the problem -->
 
