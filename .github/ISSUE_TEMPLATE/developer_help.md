@@ -6,15 +6,12 @@ labels: question
 assignees: ''
 
 ---
-**Describe Problem/Blocker:**  
-<!-- Provide Details of Goal and Issue faced -->
+**Describe Problem/Blocker:**  <!-- Provide Details of Goal and Issue faced -->
 
-**Context:**  
-<!-- Links or Branches -->
+**Context:**  <!-- Links or Branches -->
 
 **Steps Taken:**  
 - [ ] Reviewed [Contributing Help File](../blob/master/CONTRIBUTING.md)
 
-**Results:**  
-<!-- Additional Steps/Outcomes -->
+**Results:**  <!-- Additional Steps/Outcomes -->
 - Here
