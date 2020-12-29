@@ -7,7 +7,7 @@ The best way to [report an issue is through Github](../../issues). The owners of
 
 
 ## Development 
-This section details the steps to setup the project for development.
+<!--This section details the steps to setup the project for development. -->
 
 ### Environment Setup and Tools
 Cloning this repo requires the use of Git, or you can use the template feature provided by Github. You can also download an archive of the repository contents using the Github "Download" link and extract this to access all of the files and create a new Git repository with them.

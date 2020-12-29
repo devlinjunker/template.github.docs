@@ -1,12 +1,12 @@
 # Description:
-_Quickly describe what you are solving and how_
+<!-- Quickly describe what you are solving and how -->
 
 # Related:
-_Links to any Github issues or documentation used for this change_
+<!-- Links to Github issues or documentation/references used for this change -->
 
 # Visual:
-_Add a screenshot!_
+<!-- Add a screenshot! -->
 
 # TODO:
+ - [ ] Updated README documents
  - [ ] Complete PR Body
- - [ ] Updated Architecture/README documents

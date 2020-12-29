@@ -13,17 +13,16 @@ version: 0.9-SNAPSHOT
 _[Find More Badges Here](https://shields.io/)_
 
 ## Intro
-
+<!-- Quick Description, could match Github repo description or have a little more info-->
 This is a template project with all of the basic files and directory structure for a [Github Repo :100:%](../../community)
 
 ## Dependencies/Frameworks
-_List the frameworks, libraries, and tools the project uses:_
+<!--List the frameworks, libraries, and tools the project uses: -->
 
 - GitHub - this template is based on the GitHub completion stats and has a `.github/` directory
 
 ## Quick Setup/Run
-
-_This section should try to quickly explain how to setup the project and start using it (server/app/demo/template) - ideally in list format_
+<!--This section should try to quickly explain how to setup the project and start using it (server/app/demo/template) - ideally in list format -->
  - [ ] Review [License](LICENSE) File
  - [ ] Review and Update [Security Policy](SECURITY.md)
    - Provide private way of reporting vulnerabilities?
@@ -44,7 +43,7 @@ _This section should try to quickly explain how to setup the project and start u
  - Start Coding!
 
 ## Links
-
+<!-- Additional Links with Related Content -->
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contribute](CONTRIBUTING.md)
 - [FAQ](../../wiki/FAQ)
