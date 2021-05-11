@@ -23,6 +23,7 @@ This is a template project with all of the basic files and directory structure f
 
 ## Quick Setup/Run
 <!--This section should try to quickly explain how to setup the project and start using it (server/app/demo/template) - ideally in list format -->
+### Initializiation:
  - [ ] Review [License](LICENSE) File
  - [ ] Review and Update [Security Policy](SECURITY.md)
    - Provide private way of reporting vulnerabilities?
@@ -35,10 +36,15 @@ This is a template project with all of the basic files and directory structure f
    - Update Setup Instructions
    - Update Contributing Info
    - Update Code of Conduct
+   - Clear and Reset Changelog
+
+### Optional:
  - [ ] (Optional) Modify [Issue Templates](.github/ISSUE_TEMPLATE/)
  - [ ] (Optional) Modify [Pull Request Template](.github/pull_request_template.md)
  - [ ] (Optional) Update [Github Workflows](.github/workflows)
     - [ ] Review and Update [Label Definitions](.github/labels.yaml) for Label Manager
+
+### Start Project:
  - [ ] Add Project Build and Configuration Files
  - Start Coding!
 
